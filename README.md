@@ -1,4 +1,4 @@
-# Coding-DOJO---QA
+# Coding-DOJO - QA
 
 
 # TESTES CASE
